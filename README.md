@@ -1,4 +1,4 @@
-Tryna figure out how to use this web
+I don't think im even an actual programmer
 <!---
 - 👋 Hi, I’m @Reamuji
 - 👀 I’m interested in ...
