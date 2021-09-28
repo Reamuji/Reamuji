@@ -1,4 +1,4 @@
-I don't think im even an actual programmer lol
+Not a programmer
 <!---
 - 👋 Hi, I’m @Reamuji
 - 👀 I’m interested in ...
