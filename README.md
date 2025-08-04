@@ -1,4 +1,4 @@
-Not a programmer
+Self proclaimed web developer that keep refusing to learn framework
 <!---
 - 👋 Hi, I’m @Reamuji
 - 👀 I’m interested in ...
